@@ -1,7 +1,6 @@
+<p align="left"> <img src="https://yt3.googleusercontent.com/f311bDjK3MYjW55h0OypdQ1KdbN8tYn0GANg0n9YHJw0BOfewoULZu456BYsVGAqNrGnKQRW-Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" alt="mrnobodycam" /> </p>
 <h1 align="center">Hi 👋, I'm Kao Vichet</h1>
 <h3 align="center">👋 Hi there! I’m a Software Engineering student passionate about building efficient and impactful solutions. I love diving into code, exploring new tech, and bringing ideas to life through programming. Currently, I’m focusing on expanding my skills in [list key languages or technologies, e.g., Python, JavaScript, React]. On this GitHub, you'll find projects that reflect my journey in software development and my commitment to continuous learning. Let’s connect and collaborate!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrnobodycam&label=Profile%20views&color=0e75b6&style=flat" alt="mrnobodycam" /> </p>
 
 - 🔭 I’m currently working on [sark_thmor_mobile](https://github.com/DiamondLuver/sark_thmor_mobile)
 
